@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krustom562-alt.github.io/sitemap.xml

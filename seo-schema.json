@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "TextAnalyzer - Contador de Palabras",
+  "operatingSystem": "All",
+  "applicationCategory": "UtilitiesApplication",
+  "description": "Contador de palabras y caracteres en tiempo real. Herramienta gratuita para escritores, estudiantes y editores de contenido SEO.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
